@@ -1,0 +1,20 @@
+{
+  "name": "url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "mock-fs": "^4.4.1",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
